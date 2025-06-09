@@ -1,5 +1,3 @@
----
-
 # ¡Hola, soy Jhon Torres Alva! 👋
 
 ---
