@@ -58,6 +58,6 @@ Me encantaría conectar y discutir sobre desarrollo de software, módulos a medi
 
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTorresAlva&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonTorresAlva&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JhonTorresAlva&theme=dracula&locale=es)](https://git.io/streak-stats)
 
 ---
