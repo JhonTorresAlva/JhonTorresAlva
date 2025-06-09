@@ -63,5 +63,3 @@ Me encantaría conectar y discutir sobre desarrollo de software, módulos a medi
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonTorresAlva&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-Espero que esta vez, al copiar y pegar el bloque completo y con las instrucciones claras, se resuelva el problema y tu perfil de GitHub se vea excelente. ¡Avísame si sigues teniendo dificultades!
