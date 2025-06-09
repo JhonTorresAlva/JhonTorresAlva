@@ -33,6 +33,6 @@ Me encantaría conectar y discutir sobre desarrollo de software, módulos a medi
 LinkedIn: https://www.linkedin.com/in/jhon-torres-alva-129b97171/
 Correo Electrónico: torresalva95@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTorresAlva&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Your GitHub Stats](https://readme-stats-jhon.vercel.app/api?username=JhonTorresAlva&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+📊 Estadísticas de GitHub
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTorresAlva&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonTorresAlva&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
