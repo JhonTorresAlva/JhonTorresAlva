@@ -34,5 +34,7 @@ LinkedIn: https://www.linkedin.com/in/jhon-torres-alva-129b97171/
 Correo Electrónico: torresalva95@gmail.com
 
 📊 Estadísticas de GitHub
+
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTorresAlva&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonTorresAlva&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
