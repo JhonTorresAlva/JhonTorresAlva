@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Desarrollador Fullstack** apasionado por construir soluciones web robustas y a medida. Mi experiencia principal se centra en **Odoo** ERP, donde desarrollo módulos personalizados para optimizar procesos empresariales, trabajando con las versiones **14 y 17**.
+Soy un **Desarrollador Odoo** apasionado por construir soluciones web robustas y a medida. Mi experiencia principal se centra en **Odoo** ERP, donde desarrollo módulos personalizados para optimizar procesos empresariales, trabajando con las versiones **14 y 17**.
 
 Complemento mi expertise en Odoo con desarrollo backend utilizando **Flask** para APIs y servicios personalizados, y me encargo del frontend con **HTML, CSS, Bootstrap y JavaScript**, asegurando interfaces intuitivas y responsivas. Además, tengo conocimientos en administración de **redes y equipos como OLT Huawei y Mikrotiks**, lo que me permite tener una visión más completa de la infraestructura tecnológica. Disfruto cada etapa del desarrollo, desde la concepción hasta el despliegue, siempre buscando la eficiencia y la mejor experiencia de usuario.
 
